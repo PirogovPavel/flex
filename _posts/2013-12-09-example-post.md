@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GARAGE, как это было?
-cover: cover.jpg
+cover: coverg.jpg
 date:   2017-03-20 10:57:00
 categories: posts
 ---
