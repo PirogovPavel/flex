@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GARAGE или ТРИЕННАЛЕ РОССИЙСКОГО СОВРЕМЕННОГО ИСКУССТВА
+title: GARAGE как это было.
 cover: cover.jpg
 date:   2017-03-20 10:57:00
 categories: posts
