@@ -1,10 +1,12 @@
 ---
 layout: post
-title: GARAGE как это было.
+title: GARAGE, как это было?
 cover: cover.jpg
 date:   2017-03-20 10:57:00
 categories: posts
 ---
+
+
 
 
 Проснувшись от звонка в 16:00 немного опухший от количества выпитой газировки вчера,
@@ -36,7 +38,7 @@ categories: posts
 
 Описывать инсталляции я не буду, чтобы не портить Вам впечатления, если вы решитесь туда пойти. Вкратце я скажу, что сейчас то самое время, когда можно делать все и это выставка это доказывает, назвать то что я видел искусством к сожалению, или к счастью я не могу.  Искусство делает мне больно.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/uA3D1UtSSQo" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="400" src="https://www.youtube.com/embed/uA3D1UtSSQo" frameborder="0" allowfullscreen></iframe>
 
  
 
