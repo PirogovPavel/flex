@@ -36,7 +36,7 @@ categories: posts
 
 Описывать инсталляции я не буду, чтобы не портить Вам впечатления, если вы решитесь туда пойти. Вкратце я скажу, что сейчас то самое время, когда можно делать все и это выставка это доказывает, назвать то что я видел искусством к сожалению, или к счастью я не могу.  Искусство делает мне больно.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uA3D1UtSSQo" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/uA3D1UtSSQo" frameborder="0" allowfullscreen></iframe>
 
  
 
