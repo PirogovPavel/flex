@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloodborne, сейчас будет мясо.
-cover: coverg.png
+cover: cover2.png
 date:   2017-03-20 10:57:00
 ---
 
